@@ -6,8 +6,8 @@
 
 ## 🌍 Main Highlights
 
-- **Translate 99% accurately**: Achieves near-perfect accuracy with clean, natural translations ()  
-- **Preserve visual integrity**: Maintains fonts, colors, and text positioning exactly as in the original image ()  
+- **Translate 99% accurately**: Achieves near-perfect accuracy with clean, natural translations
+- **Preserve visual integrity**: Maintains fonts, colors, and text positioning exactly as in the original image
 - **Wide format & batch support**: Handles PNG, JPG, BMP, WEBP—and even multiple images at once   
 - **Built‑in editor**: Edit translated text—adjust font style, size, or placement—before downloading  
 - **No registration required**: Try it immediately with free usage; sign‑up offers 200 credits and history tracking  
